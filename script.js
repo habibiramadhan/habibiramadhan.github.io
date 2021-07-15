@@ -1,5 +1,5 @@
 
-let nama = "Dilla";
+let nama = "Salsa";
 const url_string = document.URL;
 const url = new URL(url_string);
 let sender;
